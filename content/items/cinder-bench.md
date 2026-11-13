@@ -3,7 +3,6 @@ title: Cinder Bench
 slug: cinder-bench
 status: published
 summary: Repeatable throughput benchmark suite for streaming column stores.
-link: https://wandb.ai/wandb/examples
 benchmark:
   platform: wandb
   entity: wandb
