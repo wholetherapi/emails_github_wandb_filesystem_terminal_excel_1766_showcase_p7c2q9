@@ -1,0 +1,6 @@
+[project]
+name = "plume-embed"
+version = "0.4.2"
+description = "Compact on-device embedding lookup service"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24"]
